@@ -43,6 +43,7 @@
 
 # Go to folder: cd ~/scripts
 # Make it executable: chmod +x updatePlex.sh
+# Get full path enter: pwd
 
 # Step 4:
 # Terminal test - full path to sh: sh /home/userName/scripts/updatePlex.sh
