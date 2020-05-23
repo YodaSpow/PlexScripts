@@ -43,10 +43,10 @@
 
 # Go to folder: cd ~/scripts
 # Make it executable: chmod +x updatePlex.sh
-# Get full path enter: pwd
+# Get full path enter: readlink -f updatePlex.sh
 
 # Step 4:
-# Terminal test - full path to sh: sh /home/userName/scripts/updatePlex.sh
+# Test it, use full path: sh /home/userName/scripts/updatePlex.sh
 
 # Step 5:
 # Filebot intergration: --def exec="/home/userName/scripts/updatePlex.sh"
