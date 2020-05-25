@@ -48,7 +48,7 @@
 # Step 4:
 # Test it, use full path: sh /home/userName/scripts/updatePlex.sh
 
-# Step 5:
+# Step 5: 
 # Filebot intergration: --def exec="/home/userName/scripts/updatePlex.sh"
 
 # "authentication_token" (plexToken)
